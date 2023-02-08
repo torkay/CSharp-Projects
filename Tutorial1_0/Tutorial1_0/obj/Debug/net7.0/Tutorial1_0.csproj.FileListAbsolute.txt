@@ -1,0 +1,15 @@
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/bin/Debug/net7.0/Tutorial1_0
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/bin/Debug/net7.0/Tutorial1_0.deps.json
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/bin/Debug/net7.0/Tutorial1_0.runtimeconfig.json
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/bin/Debug/net7.0/Tutorial1_0.dll
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/bin/Debug/net7.0/Tutorial1_0.pdb
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.csproj.AssemblyReference.cache
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.AssemblyInfoInputs.cache
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.AssemblyInfo.cs
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.csproj.CoreCompileInputs.cache
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.dll
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/refint/Tutorial1_0.dll
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.pdb
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/Tutorial1_0.genruntimeconfig.cache
+/Users/torrinkay/Projects/Tutorial1_0/Tutorial1_0/obj/Debug/net7.0/ref/Tutorial1_0.dll
