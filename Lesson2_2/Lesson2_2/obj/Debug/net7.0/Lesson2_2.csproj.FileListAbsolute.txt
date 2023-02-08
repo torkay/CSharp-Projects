@@ -1,0 +1,15 @@
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/bin/Debug/net7.0/Lesson2_2
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/bin/Debug/net7.0/Lesson2_2.deps.json
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/bin/Debug/net7.0/Lesson2_2.runtimeconfig.json
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/bin/Debug/net7.0/Lesson2_2.dll
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/bin/Debug/net7.0/Lesson2_2.pdb
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.csproj.AssemblyReference.cache
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.AssemblyInfoInputs.cache
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.AssemblyInfo.cs
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.csproj.CoreCompileInputs.cache
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.dll
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/refint/Lesson2_2.dll
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.pdb
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/Lesson2_2.genruntimeconfig.cache
+/Users/torrinkay/Desktop/C# Projects/Lesson2_2/Lesson2_2/obj/Debug/net7.0/ref/Lesson2_2.dll
